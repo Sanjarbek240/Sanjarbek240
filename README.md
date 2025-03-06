@@ -32,7 +32,7 @@
 **Contact**
 
 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/mbin_dev_0039)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/karimovoffical_1)](https://t.me/karimovoffical_1)
 
 
 
