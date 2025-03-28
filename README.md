@@ -3,7 +3,7 @@
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">  -->
 
 <p align="center">
-  <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=firdavsDev&theme=tokyonight_duo&hide_border=true" />
+  <img class="img" src="[https://github-readme-streak-stats.herokuapp.com?user=firdavsDev&theme=tokyonight_duo&hide_border=true](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZvRxcezk-HGf_GZVsXMAfYkuXfxNUyP_Pg&s)" />
 </p>
 
 
